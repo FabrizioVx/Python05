@@ -1,2 +1,0 @@
-# Python05
-Ordenamiento 
